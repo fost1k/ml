@@ -6,6 +6,7 @@
 
 ML: sklearn, pandas, numpy
 API: flask
+
 Данные: с kaggle - https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 Задача: cрогнозировать дождь на следующий день, целевая переменная "RainTomorrow". Бинарная классификация.
