@@ -23,7 +23,7 @@ API: flask
 
 ### Клонируем репозиторий и создаем образ
 ```
-$ git clone https://https://github.com/fost1k/ml/edit/hw_9.git
+$ git clone https://github.com/fost1k/ml/hw_9.git
 $ cd hw_9
 $ docker build -t fost1k/ml/edit/hw_9 .
 ```
